@@ -1,0 +1,572 @@
+*{
+    box-sizing: border-box;
+}
+@media(min-width:1200px){
+    
+}
+@media(min-width:992px) and (max-width:1199px){
+    .salider-section {
+        height: 384px;
+  
+    }
+    .inpot-name .noyon {
+        left: 147px;
+    }
+    .heder-2-contion {
+        top: 13%;
+        left: 5%;
+    }
+    .heder-2-contion p {
+      
+        width: 82%;
+       
+    }
+    .form-contct-section {
+   
+        max-width: 75%;
+  
+    }
+  
+
+}
+@media(min-width:768px) and (max-width:991px){
+    .salider-section {
+        height: 350px;
+  
+    }
+    .inpot-name .noyon {
+        left: 110px;
+    }
+    .salider-btn .btn {
+        width: 57%;
+   
+    }
+    .manul-bar ul li ul {
+ 
+        top: 32%;
+        left: 128px;
+ 
+    
+    }
+    .heder-2-contion {
+        top: 13%;
+        left: 0;
+      
+    }
+    .heder-2-contion p {
+      
+        width: 100%;
+        font-size: 15px;
+        line-height: 24px;
+       
+    }
+    .heder-2-contion h3 {
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+    .form-contct-section {
+      
+        max-width: 90%;
+     
+    }
+}
+@media(min-width:576px) and (max-width:767px){
+    .salider-section {
+        height: 320px;
+  
+    }
+
+    .inpot-name .noyon {
+     
+        left: 8px;
+    }
+    .inpot-name .email {
+        max-width: 100%;
+    
+    }
+    .salider-btn .btn {
+    
+        width: 89%;
+     
+    }
+    .manul-bar ul li ul {
+ 
+        top: 32%;
+        left: 128px;
+ 
+    
+    }
+    .factors-numbaar {
+        padding: 42px 0;
+    }
+    .factor-nubar {
+        margin-bottom: 30px;
+    }
+    .heder-2-contion {
+        position: relative;
+        top: 10%;
+        left: 0%;
+    }
+    .heder-2-contion h3 {
+        font-size: 17px;
+        margin-bottom: 25px;
+    }
+
+    .heder-2-contion p {
+        font-size: 12px;
+        width: 100%;
+        line-height: 21px;
+    }
+    .feature-img img {
+        left: -35px;
+    }
+
+    .form-contct-section {
+    
+        max-width: 100%;
+     
+    }
+    .last-buton .button-1 {
+        width: 40%;
+    }
+    .last-buton .button-2 {
+        width: 40%;
+    }
+    .last-section-img {
+        max-width: 75%;
+ 
+    }
+
+    .price-list2 {
+
+        margin-top: 30px;
+    }
+
+
+}
+@media(min-width:480px) and (max-width:575px){
+    .salider-section {
+        height: 381px;
+      
+    }
+    .inpot-name .noyon {
+        left: 12px;
+    }
+    .inpot-name .email {
+
+        max-width: 100%;
+     
+    }
+    .salider-btn .btn {
+        width: 100%;
+    
+    }
+    .manul-bar ul li ul {
+ 
+        top: 32%;
+        left: 128px;
+ 
+    
+    }
+    .factors-numbaar {
+        padding: 42px 0;
+    }
+    .factor-nubar {
+        margin-bottom: 30px;
+        background: #ddd;
+        padding: 60px;
+        box-shadow: 0px 6px 10px #000;
+        margin-bottom: 30px;
+    background: #ddd;
+    padding: 60px;
+    box-shadow: 0px 6px 10px #000;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: rebeccapurple;
+    transition: all 0.5s ease-in-out;
+    }
+    .factor-nubar:hover{
+        background-color: #fff;
+        box-shadow: 0px 6px 10px  #687de0;
+        color: #687de0;
+    }
+
+
+    .factor-nubar h1{
+        font-size: 40px;
+    }
+    .factor-nubar h5{
+        font-size: 22px;
+        
+    }
+    .heder-2 {
+  
+        padding: 34px 0;
+    }
+    .heder-2-contion {
+        position: relative;
+        top: 0%;
+        left: 0%;
+    }
+    .heder-2-contion h3 {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .heder-2-contion p {
+        font-size: 12px;
+        width: 100%;
+        line-height: 19px;
+    }
+
+    .feature {
+     
+        max-width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .feature-img img {
+       
+        left: -47px;
+    }
+    .form-contct-section {
+    
+        max-width: 100%;
+     
+    }
+    .last-buton .button-1 {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 17px;
+    }
+    .last-buton .button-2 {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .last-section-img {
+      
+        max-width: 80%;
+
+    }
+
+    .price-list2 {
+
+        margin-top: 30px;
+    }
+
+
+  
+}
+@media(min-width:400px) and (max-width:479px){
+    .salider-section {
+        height: 381px;
+      
+    }
+    .inpot-name .noyon {
+        left: 12px;
+    }
+    .inpot-name .email {
+
+        max-width: 100%;
+     
+    }
+    .salider-btn .btn {
+        width: 100%;
+    
+    }
+    .manul-bar ul li ul {
+ 
+        top: 32%;
+        left: 128px;
+ 
+    
+    }
+    .factors-numbaar {
+        padding: 42px 0;
+    }
+    .factor-nubar {
+        margin-bottom: 30px;
+    }
+    .factor-nubar {
+        margin-bottom: 30px;
+        background: #ddd;
+        padding: 60px;
+        box-shadow: 0px 6px 10px #000;
+        margin-bottom: 30px;
+    background: #ddd;
+    padding: 60px;
+    box-shadow: 0px 6px 10px #000;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: rebeccapurple;
+    transition: all 0.5s ease-in-out;
+    }
+    .factor-nubar:hover{
+        background-color: #fff;
+        box-shadow: 0px 6px 10px  #687de0;
+        color: #687de0;
+    }
+    .factor-nubar h1{
+        font-size: 35px;
+    }
+    .factor-nubar h5{
+        font-size: 18px;
+        
+    }
+
+    .heder-2 {
+  
+        padding: 34px 0;
+    }
+    .heder-2-contion {
+        position: relative;
+        top: 0%;
+        left: 0%;
+    }
+    .heder-2-contion h3 {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .heder-2-contion p {
+        font-size: 12px;
+        width: 100%;
+        line-height: 19px;
+    }
+
+    .feature {
+     
+        max-width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .feature-img img {
+       
+        left: -47px;
+    }
+    .feature-contin {
+        padding-left: 11px;
+       
+        padding-right: 10px;
+    }
+    .form-contct-section {
+    
+        max-width: 100%;
+     
+    }
+
+    .last-buton .button-1 {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 17px;
+    }
+    .last-buton .button-2 {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .last-section-img {
+      
+        max-width: 80%;
+
+    }
+
+    .price-list2 {
+
+        margin-top: 30px;
+    }
+    .price-list {
+        padding: 22px;
+    }
+
+
+
+}
+@media(max-width:399px){
+    .salider-section {
+        height: 381px;
+      
+    }
+    .inpot-name .noyon {
+        left: 12px;
+    }
+    .inpot-name .email {
+
+        max-width: 100%;
+     
+    }
+    .salider-btn .btn {
+        width: 100%;
+    
+    }
+    .manul-bar ul li ul {
+ 
+        top: 32%;
+        left: 128px;
+        width: 156px;
+    
+    }
+
+    .manul-bar ul li ul li a {
+        text-decoration: none;
+        color: #000;
+        font-size: 12px;
+        display: block;
+        transition: all 0.3s ease-in-out;
+    }
+
+    .factors-numbaar {
+        padding: 42px 0;
+    }
+    .factor-nubar {
+        margin-bottom: 30px;
+    }
+    .factor-nubar {
+        margin-bottom: 30px;
+        background: #ddd;
+        padding: 60px;
+        box-shadow: 0px 6px 10px #000;
+        margin-bottom: 30px;
+    background: #ddd;
+    padding: 60px;
+    box-shadow: 0px 6px 10px #000;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: rebeccapurple;
+    transition: all 0.5s ease-in-out;
+    }
+    .factor-nubar:hover{
+        background-color: #fff;
+        box-shadow: 0px 6px 10px  #687de0;
+        color: #687de0;
+    }
+
+    .factor-nubar h1{
+        font-size: 30px;
+    }
+    .factor-nubar h5{
+        font-size: 13px;
+        
+    }
+
+    .heder-2 {
+  
+        padding: 34px 0;
+    }
+    .heder-2-contion {
+        position: relative;
+        top: 0%;
+        left: 0%;
+    }
+    .heder-2-contion h3 {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+
+    .heder-2-contion p {
+        font-size: 12px;
+        width: 100%;
+        line-height: 19px;
+    }
+
+    .feature {
+     
+        max-width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .feature-img img {
+       
+        left: -70px;
+    }
+    .feature-contin {
+        padding-left: 11px;
+        padding-right: 10px;
+    }
+    .main-box {
+        display: inline-block;
+        width: 250px;
+        height: 200px;
+        margin: auto;
+        position: relative;
+    }
+
+    .img-box {
+        display: block;
+        padding: 40px 0;
+        height: 409px;
+    }
+
+    .textimonial-contioe p {
+        width: 100%;
+        margin: auto;
+    }
+    .form-contct-section {
+    
+        max-width: 100%;
+     
+    }
+    .input-group textarea {
+        height: 150px;
+    }
+
+    .last-buton .button-1 {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 17px;
+    }
+    .last-buton .button-2 {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .last-section-img {
+      
+        max-width: 80%;
+
+    }
+    .price-list2 {
+
+        margin-top: 30px;
+    }
+
+    .price-lis-manu ul li {
+        line-height: 32px;
+    }
+    .price-lis-manu ul li samp {
+   
+        font-size: 11px;
+    }
+
+    .price-lis-manu ul li i {
+        margin-right: 8px;
+    }
+    .price-lis-manu ul li samp {
+    
+        font-size: 13px;
+    }
+
+    .price-list {
+        padding: 15px;
+    }
+
+    .price-lis-manu a {
+        margin-top: 17px;
+        margin-bottom: 18px;
+        font-size: 13px;
+    }
+
+    .price-lis-manu ul i {
+        font-size: 17px;
+    }
+
+
+
+}
